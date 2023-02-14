@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Replace example.com with your actual domain name
+# Replace DOMAIN with your actual domain name
 DOMAIN="nginx.brian72.eu.org"
 
 # Install Nginx and V2Ray
