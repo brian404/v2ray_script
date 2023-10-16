@@ -1,11 +1,14 @@
-# Automated Nginx and V2Ray Installation Script
+#  NginxV2Ray Installation Script
 
-This script automates the installation of Nginx and V2Ray for a panel setup. Simply follow these steps:
+This script automates the installation of Nginx and V2Ray for a panel setup. Use the following commands to download, make the script executable, and run it:
 
-1. **Download the Script**:
-   Use `wget` to download the script
+```bash
+# Download the Script
+wget -q https://www.dropbox.com/scl/fi/vts51shyiss193hdbn9r6/nginx_v2ray.sh?rlkey=g3ifdz80i4ckf9pn9m2y5ufd4&dl=0 -O nginx_v2ray.sh
 
-   ```bash
-   wget -q https://www.dropbox.com/scl/fi/vts51shyiss193hdbn9r6/nginx_v2ray.sh?rlkey=g3ifdz80i4ckf9pn9m2y5ufd4&dl=0
+# Make the Script Executable
 chmod +x nginx_v2ray.sh
+
+# Run the Script
 ./nginx_v2ray.sh
+
