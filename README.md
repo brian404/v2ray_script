@@ -1,6 +1,6 @@
 #  NginxV2Ray Installation Script
 
-This script automates the installation of Nginx and V2Ray for a panel setup. Use the following commands to download, make the script executable, and run it:
+This script automates the installation of Nginx and V2Ray for a panel setup.
 
 ```bash
 # Download the Script
